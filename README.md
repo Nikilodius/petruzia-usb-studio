@@ -1,21 +1,7 @@
 # ⌨️ Petruzia USB Studio
 
-\<div align="center">
-
-### Настраивай свою клавиатуру. Без браузера. Без перепрошивки. Без лишних сложностей.
-
-Windows-приложение для удобного переназначения клавиш PetruziaMini через USB с использованием официального протокола ZMK Studio.
-
-\<br>
-
-\<img src="[https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge\&logo=windows)" /> \<img src="[https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge\&logo=python\&logoColor=white)" /> \<img src="[https://img.shields.io/badge/Firmware-ZMK-8A2BE2?style=for-the-badge](https://img.shields.io/badge/Firmware-ZMK-8A2BE2?style=for-the-badge)" /> \<img src="[https://img.shields.io/badge/License-MIT-green?style=for-the-badge](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)" />
-
-\</div>
-
----
 
 ## ✨ О проекте
-
 
 **Petruzia USB Studio** — небольшая утилита для владельцев механической клавиатуры PetruziaMini.
 
@@ -105,14 +91,14 @@ py -3 test_protocol.py
 
 ## 🏗️ Технологии
 
-| Технология | Назначение |
-|---|---|
-| Python | Основная логика |
-| Tkinter | Графический интерфейс |
-| ZMK Studio RPC | Обмен данными с клавиатурой |
-| Protocol Buffers | Формат сообщений |
-| PyInstaller | Сборка Windows EXE |
-| GitHub Actions | Автоматическая сборка |
+| Технология       | Назначение                  |
+| ---------------- | --------------------------- |
+| Python           | Основная логика             |
+| Tkinter          | Графический интерфейс       |
+| ZMK Studio RPC   | Обмен данными с клавиатурой |
+| Protocol Buffers | Формат сообщений            |
+| PyInstaller      | Сборка Windows EXE          |
+| GitHub Actions   | Автоматическая сборка       |
 
 ## ❤️ Благодарности и авторство
 
@@ -132,7 +118,7 @@ Petruzia USB Studio — отдельный программный инструм
 
 ---
 
-<p align="center">
-  <strong>Petruzia USB Studio</strong><br>
-  Made for PetruziaMini ❤️
-</p>
+\<p align="center">
+&#x20; \<strong>Petruzia USB Studio\</strong>\<br>
+&#x20; Made for PetruziaMini ❤️
+\</p>
