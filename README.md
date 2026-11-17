@@ -1,23 +1,21 @@
 # ⌨️ Petruzia USB Studio
 
-<p align="center">
-  <strong>Настраивай свою клавиатуру. Без браузера. Без перепрошивки. Без лишних сложностей.</strong>
-</p>
+\<div align="center">
 
-<p align="center">
-  Windows-приложение для удобного переназначения клавиш PetruziaMini через USB с использованием официального протокола ZMK Studio.
-</p>
+### Настраивай свою клавиатуру. Без браузера. Без перепрошивки. Без лишних сложностей.
 
-<p align="center">
-  ![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows)
-  ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![ZMK](https://img.shields.io/badge/Firmware-ZMK-8A2BE2?style=for-the-badge)
-  ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-</p>
+Windows-приложение для удобного переназначения клавиш PetruziaMini через USB с использованием официального протокола ZMK Studio.
+
+\<br>
+
+\<img src="[https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge\&logo=windows)" /> \<img src="[https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge\&logo=python\&logoColor=white)" /> \<img src="[https://img.shields.io/badge/Firmware-ZMK-8A2BE2?style=for-the-badge](https://img.shields.io/badge/Firmware-ZMK-8A2BE2?style=for-the-badge)" /> \<img src="[https://img.shields.io/badge/License-MIT-green?style=for-the-badge](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)" />
+
+\</div>
 
 ---
 
 ## ✨ О проекте
+
 
 **Petruzia USB Studio** — небольшая утилита для владельцев механической клавиатуры PetruziaMini.
 
